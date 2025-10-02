@@ -13,6 +13,5 @@ public class tugas2 {
         } else {
             System.out.println("Angka tersebut merupakan angka ganjil");
         }
-
     }
 }
